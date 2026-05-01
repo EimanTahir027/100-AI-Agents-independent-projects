@@ -194,6 +194,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 If this course helps you build something useful, give it a star — it helps others discover it too.
 
----
 
-*Built with ❤️ using [Claude](https://anthropic.com) by Anthropic*
