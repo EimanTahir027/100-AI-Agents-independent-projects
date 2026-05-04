@@ -1,0 +1,29 @@
+Daily Task Prioritization Plan (2026-05-04)
+=============================================
+
+TOP 3 (Do these first)
+----------------------
+1. Send proposal to client  | deadline: 2025-12-22 | effort: 25m | score: 19.0
+   Why: Overdue, High impact
+2. Prepare meeting agenda  | deadline: 2025-12-23 | effort: 30m | score: 19.0
+   Why: Overdue, High impact
+3. Fix login bug  | deadline: 2025-12-24 | effort: 90m | score: 19.0
+   Why: Overdue, High impact
+
+NEXT 5
+------
+1. Pay electricity bill  | deadline: 2025-12-22 | effort: 10m | score: 17.0
+   Why: Overdue, Medium impact, Quick win
+2. Book dentist appointment  | deadline: none | effort: 10m | score: 5.0
+   Why: No deadline, Quick win
+3. Clean downloads folder  | deadline: none | effort: 15m | score: 5.0
+   Why: No deadline, Quick win
+
+UNBLOCK (Blocked tasks)
+-----------------------
+1. Wait for design assets  | deadline: 2025-12-22 | effort: 15m | score: 15.0
+   Why: Overdue, High impact, Quick win, Blocked (needs unblock step)
+
+DEFER (Low urgency/impact)
+--------------------------
+  (none)
