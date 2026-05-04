@@ -52,8 +52,9 @@ python3 --version
 ```
 
 You should see something like `Python 3.10.x` or higher.
-
-> 📸 **Screenshot tip:** Take a screenshot of your terminal showing the Python version.
+<p align="center">
+  <img src="images/Screenshot1.png" alt="Neural Crawler Banner" style="width:100%; height:auto;" />
+</p>
 
 ---
 
@@ -61,9 +62,8 @@ You should see something like `Python 3.10.x` or higher.
 
 1. Create a new folder called `daily-priority-agent`
 2. Open VS Code
-3. Go to **File → Open Folder** and select `daily-priority-agent`
+3. Go to **File → Open Folder** and select `Daily task prioritization agent`
 
-> 📸 **Screenshot tip:** Show VS Code with the empty folder open in the Explorer sidebar.
 
 ---
 
@@ -76,15 +76,18 @@ In VS Code's Explorer panel, create three files:
 
 You can right-click in the Explorer sidebar → **New File**.
 
-> 📸 **Screenshot tip:** Show the Explorer sidebar with all three files visible.
-
+<p align="center">
+  <img src="images/Screenshot2.png" alt="Neural Crawler Banner" style="width:100%; height:auto;" />
+</p>
 ---
 
 ### Step 4 — Paste the Code
 
 Copy the contents of `agent.py` and `tasks.csv` from this repo into your local files and save them (`Ctrl+S` / `Cmd+S`).
 
-> 📸 **Screenshot tip:** Show `agent.py` open in VS Code editor with the code visible.
+<p align="center">
+  <img src="images/Screenshot3.png" alt="Neural Crawler Banner" style="width:100%; height:auto;" />
+</p>
 
 ---
 
@@ -99,10 +102,9 @@ Or go to **Terminal → New Terminal** from the top menu.
 Make sure you're inside the project folder:
 
 ```bash
-cd path/to/daily-priority-agent
+cd path/to/Daily-task-prioritization-agent
 ```
 
-> 📸 **Screenshot tip:** Show the VS Code terminal at the bottom with the correct folder path shown in the prompt.
 
 ---
 
@@ -118,8 +120,9 @@ On Windows you may use:
 python agent.py
 ```
 
-> 📸 **Screenshot tip:** Take a screenshot of the full terminal output showing the prioritized plan printed to the screen.
-
+<p align="center">
+  <img src="images/Screenshot4.png" alt="Neural Crawler Banner" style="width:100%; height:auto;" />
+</p>
 ---
 
 ### Step 7 — Check the Output Files
@@ -130,7 +133,9 @@ After running, two files are created:
 
 Open `plan.txt` in VS Code to see your plan.
 
-> 📸 **Screenshot tip:** Show `plan.txt` open in VS Code with the plan content visible.
+<p align="center">
+  <img src="images/Screenshot5.png" alt="Neural Crawler Banner" style="width:100%; height:auto;" />
+</p>
 
 ---
 
@@ -138,7 +143,9 @@ Open `plan.txt` in VS Code to see your plan.
 
 Open `plan.json` to see the full structured output including score breakdowns.
 
-> 📸 **Screenshot tip:** Show `plan.json` open in VS Code with the JSON structure visible.
+<p align="center">
+  <img src="images/Screenshot6.png" alt="Neural Crawler Banner" style="width:100%; height:auto;" />
+</p>
 
 ---
 
