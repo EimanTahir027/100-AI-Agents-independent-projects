@@ -1,0 +1,8 @@
+title,description,deadline,effort,impact,blocked,tags
+Send proposal to client,Finalize and email proposal,2025-12-22,25m,high,no,work
+Pay electricity bill,Online payment,2025-12-22,10m,medium,no,personal
+Book dentist appointment,Call dentist office,,10m,low,no,personal
+Prepare meeting agenda,Outline topics and decisions,2025-12-23,30m,high,no,work
+Fix login bug,Reproduce and patch issue,2025-12-24,L,high,no,work
+Wait for design assets,Need final banner files,2025-12-22,15m,high,yes,work
+Clean downloads folder,Organize files,,S,low,no,personal

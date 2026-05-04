@@ -1,0 +1,171 @@
+{
+  "generated_on": "2026-05-04",
+  "top3": [
+    {
+      "title": "Send proposal to client",
+      "description": "Finalize and email proposal",
+      "deadline": "2025-12-22",
+      "effort_min": 25,
+      "impact": 3,
+      "blocked": false,
+      "tags": [
+        "work"
+      ],
+      "score": 19.0,
+      "reason": "Overdue, High impact",
+      "score_breakdown": {
+        "urgency": 5.0,
+        "importance": 3.0,
+        "quickwin": 0.0,
+        "blocked_penalty": 0.0,
+        "final_score": 19.0
+      }
+    },
+    {
+      "title": "Prepare meeting agenda",
+      "description": "Outline topics and decisions",
+      "deadline": "2025-12-23",
+      "effort_min": 30,
+      "impact": 3,
+      "blocked": false,
+      "tags": [
+        "work"
+      ],
+      "score": 19.0,
+      "reason": "Overdue, High impact",
+      "score_breakdown": {
+        "urgency": 5.0,
+        "importance": 3.0,
+        "quickwin": 0.0,
+        "blocked_penalty": 0.0,
+        "final_score": 19.0
+      }
+    },
+    {
+      "title": "Fix login bug",
+      "description": "Reproduce and patch issue",
+      "deadline": "2025-12-24",
+      "effort_min": 90,
+      "impact": 3,
+      "blocked": false,
+      "tags": [
+        "work"
+      ],
+      "score": 19.0,
+      "reason": "Overdue, High impact",
+      "score_breakdown": {
+        "urgency": 5.0,
+        "importance": 3.0,
+        "quickwin": 0.0,
+        "blocked_penalty": 0.0,
+        "final_score": 19.0
+      }
+    }
+  ],
+  "next5": [
+    {
+      "title": "Pay electricity bill",
+      "description": "Online payment",
+      "deadline": "2025-12-22",
+      "effort_min": 10,
+      "impact": 2,
+      "blocked": false,
+      "tags": [
+        "personal"
+      ],
+      "score": 17.0,
+      "reason": "Overdue, Medium impact, Quick win",
+      "score_breakdown": {
+        "urgency": 5.0,
+        "importance": 2.0,
+        "quickwin": 1.0,
+        "blocked_penalty": 0.0,
+        "final_score": 17.0
+      }
+    },
+    {
+      "title": "Book dentist appointment",
+      "description": "Call dentist office",
+      "deadline": null,
+      "effort_min": 10,
+      "impact": 1,
+      "blocked": false,
+      "tags": [
+        "personal"
+      ],
+      "score": 5.0,
+      "reason": "No deadline, Quick win",
+      "score_breakdown": {
+        "urgency": 0.5,
+        "importance": 1.0,
+        "quickwin": 1.0,
+        "blocked_penalty": 0.0,
+        "final_score": 5.0
+      }
+    },
+    {
+      "title": "Clean downloads folder",
+      "description": "Organize files",
+      "deadline": null,
+      "effort_min": 15,
+      "impact": 1,
+      "blocked": false,
+      "tags": [
+        "personal"
+      ],
+      "score": 5.0,
+      "reason": "No deadline, Quick win",
+      "score_breakdown": {
+        "urgency": 0.5,
+        "importance": 1.0,
+        "quickwin": 1.0,
+        "blocked_penalty": 0.0,
+        "final_score": 5.0
+      }
+    }
+  ],
+  "unblock": [
+    {
+      "title": "Wait for design assets",
+      "description": "Need final banner files",
+      "deadline": "2025-12-22",
+      "effort_min": 15,
+      "impact": 3,
+      "blocked": true,
+      "tags": [
+        "work"
+      ],
+      "score": 15.0,
+      "reason": "Overdue, High impact, Quick win, Blocked (needs unblock step)",
+      "score_breakdown": {
+        "urgency": 5.0,
+        "importance": 3.0,
+        "quickwin": 1.0,
+        "blocked_penalty": 5.0,
+        "final_score": 15.0
+      }
+    }
+  ],
+  "defer": [],
+  "assumptions": {
+    "effort_defaults_min": {
+      "S": 15,
+      "M": 45,
+      "L": 90
+    },
+    "impact_map": {
+      "low": 1,
+      "medium": 2,
+      "high": 3
+    },
+    "weights": {
+      "urgency": 2.0,
+      "importance": 3.0,
+      "quickwin_bonus": 1.0,
+      "blocked_penalty": 5.0
+    },
+    "top3_count": 3,
+    "next5_count": 5,
+    "available_min": 0
+  }
+}
