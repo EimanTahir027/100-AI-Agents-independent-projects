@@ -1,6 +1,6 @@
 # 🗂️ Daily Task Prioritization Agent
 
-A Python CLI agent that reads your tasks from a CSV file, scores them using a weighted priority formula, and generates a structured daily plan — saved as both `plan.json` and `plan.txt`.
+A Python GUI plus CLI agent that reads your tasks from a CSV file, scores them using a weighted priority formula, and generates a structured daily plan — saved as both `plan.json` and `plan.txt`.
 
 Deployed agent  link:https://100-ai-agents-independent-projects-gtexgvkzbk7adldn55f5uk.streamlit.app/
 
