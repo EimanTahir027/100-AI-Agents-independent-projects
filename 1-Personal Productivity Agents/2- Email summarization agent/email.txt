@@ -1,0 +1,16 @@
+Subject: Project Timeline Update
+
+Hi team,
+
+We reviewed the Q1 project timeline and there are a few updates.
+
+The client has requested that the initial prototype be delivered by March 10 instead of March 20.
+This means design needs to finalize assets by March 5 at the latest.
+
+Engineering should prioritize API integration this week.
+We'll review progress in Friday's sync.
+
+Let me know if there are concerns.
+
+Thanks,
+Sarah
