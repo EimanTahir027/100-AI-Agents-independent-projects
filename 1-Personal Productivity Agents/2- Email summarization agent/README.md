@@ -1,8 +1,11 @@
 # Email Summarization Agent
 
+Deployed at :https://100-ai-agents-independent-projects-qlypdg7wp8kfwtec2ifinb.streamlit.app/
+
 An AI-powered agent that reads an email and extracts a structured summary, key points, action items, deadlines, and urgency level. Built as **Day 2 of 100 AI Agents in 100 Days 2026**.
 
 <img width="332" height="402" alt="image" src="https://github.com/user-attachments/assets/77884655-6fa3-47fe-83b4-2669d515a0c7" />
+
 
 ## Features
 
