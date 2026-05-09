@@ -1,0 +1,23 @@
+{
+  "summary": "The project timeline has been updated with a new prototype delivery date of March 10, requiring design to finalize assets by March 5 and engineering to prioritize API integration this week.",
+  "key_points": [
+    "New prototype delivery date: March 10",
+    "Design assets due by March 5",
+    "Engineering priority: API integration"
+  ],
+  "action_items": [
+    {
+      "who": "Design team",
+      "what": "Finalize assets by March 5"
+    },
+    {
+      "who": "Engineering team",
+      "what": "Prioritize API integration this week"
+    }
+  ],
+  "deadlines": [
+    "March 5: Design assets due",
+    "March 10: Prototype delivery"
+  ],
+  "urgency": "Medium"
+}
