@@ -4,7 +4,19 @@ A Python CLI agent that reads your tasks from a CSV file, scores them using a we
 
 Deployed agent  link:https://100-ai-agents-independent-projects-gtexgvkzbk7adldn55f5uk.streamlit.app/
 
-
+<table>
+  <tr>
+    <td width="33%" valign="center">
+      <img src="images/1.png" width="100%" style="display:block; margin:0;" alt="Preview" />
+    </td>
+    <td width="34%" valign="center">
+      <img src="images/2.png" width="100%" style="display:block; margin:0;" alt="Preview" />
+    </td>
+    <td width="33%" valign="center">
+      <img src="images/3.png" width="100%" style="display:block; margin:0;" alt="Skull GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
