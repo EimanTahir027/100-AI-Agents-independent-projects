@@ -1,0 +1,23 @@
+Calendar Conflict Report
+========================================
+
+- Conflict between Team Sync and Client Call
+  Type: overlap, Severity: high
+  Suggested Action: Requires human decision
+
+- Conflict between Client Call and Code Review
+  Type: no_buffer, Severity: high
+  Suggested Action: Reschedule 'Code Review'
+
+- Conflict between Code Review and Deep Work Block
+  Type: no_buffer, Severity: high
+  Suggested Action: Reschedule 'Code Review'
+
+- Conflict between Deep Work Block and Lunch
+  Type: overlap, Severity: high
+  Suggested Action: Reschedule 'Lunch'
+
+- Conflict between Lunch and Weekly Planning
+  Type: no_buffer, Severity: medium
+  Suggested Action: Reschedule 'Lunch'
+
