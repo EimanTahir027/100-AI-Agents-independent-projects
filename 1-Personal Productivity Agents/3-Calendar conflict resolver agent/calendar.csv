@@ -1,0 +1,7 @@
+title,start_time,end_time,priority,type,flexible
+Team Sync,2025-12-23 09:00,2025-12-23 10:00,high,meeting,no
+Client Call,2025-12-23 09:30,2025-12-23 10:30,high,meeting,no
+Code Review,2025-12-23 10:30,2025-12-23 11:00,medium,meeting,yes
+Deep Work Block,2025-12-23 11:00,2025-12-23 13:00,high,focus,no
+Lunch,2025-12-23 12:30,2025-12-23 13:00,low,personal,yes
+Weekly Planning,2025-12-23 13:00,2025-12-23 14:00,medium,meeting,yes
