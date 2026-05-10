@@ -1,0 +1,37 @@
+[
+  {
+    "event_a": "Team Sync",
+    "event_b": "Client Call",
+    "type": "overlap",
+    "severity": "high",
+    "suggestion": "Requires human decision"
+  },
+  {
+    "event_a": "Client Call",
+    "event_b": "Code Review",
+    "type": "no_buffer",
+    "severity": "high",
+    "suggestion": "Reschedule 'Code Review'"
+  },
+  {
+    "event_a": "Code Review",
+    "event_b": "Deep Work Block",
+    "type": "no_buffer",
+    "severity": "high",
+    "suggestion": "Reschedule 'Code Review'"
+  },
+  {
+    "event_a": "Deep Work Block",
+    "event_b": "Lunch",
+    "type": "overlap",
+    "severity": "high",
+    "suggestion": "Reschedule 'Lunch'"
+  },
+  {
+    "event_a": "Lunch",
+    "event_b": "Weekly Planning",
+    "type": "no_buffer",
+    "severity": "medium",
+    "suggestion": "Reschedule 'Lunch'"
+  }
+]
